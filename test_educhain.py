@@ -7,10 +7,7 @@ params = {
     "topic": "Physics",
     "level": "Easy",
     "num": 5,
-    "api_key": "Enter openai api key here",
-    "pdf_file": "mcqs.pdf",
-    "json_file": "mcqs.json",
-    "csv_file": "mcqs.csv"
+    "api_key": "Your_OpenAI_API_Key_Here",
 }
 
 # Make a POST request to the endpoint
